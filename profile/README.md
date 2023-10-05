@@ -10,5 +10,5 @@ Il proposera une expérience VR partagée en intégrant les acteurs hors VR, et 
 
 La dimension visuelle, sonore et haptique sera explorée.
 
-> **En savoir plus**
+> **En savoir plus**  
 > [Documentation](https://paleoscope.widerspa.ch/)
