@@ -11,6 +11,4 @@ Il proposera une expérience VR partagée en intégrant les acteurs hors VR, et 
 La dimension visuelle, sonore et haptique sera explorée.
 
 > **En savoir plus**
-> 1. [Visualisation et de manipulation de données](/donnees-reelles)
-> 2. [Communication d’une recherche](/communication)
-> 3. [Infrastructure technique](/infrastructure)
+> [Documentation](https://paleoscope.widerspa.ch/)
